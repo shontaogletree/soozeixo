@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://goongekies.qindadai.club/sitemap.xml
